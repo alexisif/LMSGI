@@ -1,0 +1,13 @@
+a {
+    text-decoration: underline;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fondo{
+    background-color: rgb(211, 20, 20);
+    color: white;
+}
+.claro{
+    color: rgb(212, 210, 206);
+}
